@@ -13,7 +13,7 @@ Was während der Arbeit nicht protokolliert wird, existiert bei der Abgabe nicht
 Nachträglich rekonstruiert heisst erfunden, und erfunden ist bei einer
 Eigenständigkeitserklärung ein Problem.
 
-Die Haltung der Schule ist dabei nicht restriktiv:
+Die Haltung der Schule ist dabei nicht restriktiv (Briefing, Folie 89):
 
 > Der Einsatz von KI ist zulässig und erwünscht, sofern er transparent dokumentiert,
 > kritisch reflektiert und fachlich verantwortungsvoll erfolgt. Bewertet wird nicht der
@@ -109,6 +109,22 @@ Prompts noch im Verlauf des jeweiligen Tools stehen.
 Für Transkriptions- und Übersetzungstools genügt in der Regel eine Zeile im Verzeichnis,
 weil es dort keinen Prompt gibt. Zweck und Umfang beschreiben, zum Beispiel: «Transkription
 von 6 Interviews, danach vollständig von Hand korrigiert.»
+
+## Was am Schluss unterschrieben wird
+
+Regulativ 6.1 D nennt die KI ausdrücklich. Unterschrieben wird unter anderem, dass
+
+- der gesamte Arbeitsprozess **eigenverantwortlich gesteuert** wurde,
+- von KI erzeugte Inhalte **nicht unreflektiert übernommen** wurden,
+- der Einsatz von KI im Hilfsmittelverzeichnis **transparent ausgewiesen** ist.
+
+Der volle Wortlaut steht in
+[../da-schreiben/references/mindestanforderungen.md](../da-schreiben/references/mindestanforderungen.md).
+
+Der dritte Punkt ist der, an dem sich das Protokoll entscheidet. Wer laufend mitschreibt,
+hakt ihn in fünf Minuten ab. Wer nicht, unterschreibt etwas, das sich nicht mehr belegen
+lässt, und hat dann noch zwei Möglichkeiten: die Prompts erfinden, oder den KI-Einsatz
+verschweigen. Beides ist schlechter als drei Minuten pro Session.
 
 ## Was daneben mitläuft
 
