@@ -147,16 +147,25 @@ Kapiteln, keine Synonyme aus Abwechslungsangst.
 Begriffe werden eingeführt, bevor sie gebraucht werden. Die externen Betreuungspersonen
 kennen den Unterrichtsstoff nicht.
 
-## Regel 5: Grenzen zeigen
+## Regel 5: Methode begründen und begrenzen
 
-Methodische Einschränkungen sind ein bewertetes Do, kein Eingeständnis. Wo die Stichprobe
-klein ist, steht das da. Wo die Methode etwas nicht messen kann, steht das da.
-Verteidigende Formulierungen braucht es nicht.
+Zu jeder Methode gehören zwei Sätze: **warum sie passt** und **was sie nicht kann**. Das
+Briefing verlangt beides unter «Methodische Reflexion» (Folie 86), das Regulativ zählt es
+in 6.1 A zu den erläuternden statt beschreibenden Ausführungen.
+
+- **Eignung.** Ein Satz vor der Methode, welche Frage sie beantwortet. Ein Usability-Test
+  misst Bedienbarkeit, keine Bedürfnisse. Wer die Methode nicht begründet, hat sie geerbt.
+- **Einschränkung.** Wo die Stichprobe klein ist, steht das da. Wo die Methode etwas nicht
+  messen kann, steht das da.
+
+Methodische Einschränkungen sind ein bewertetes Do, kein Eingeständnis. Verteidigende
+Formulierungen braucht es nicht.
 
 ## Regel 6: kürzen kommt zuletzt
 
 Erst vollständig, dann kürzen. Ziel 30 bis 50 Prozent weniger als der erste Entwurf.
-Niemals aufblasen, um Seiten zu füllen. Aus dem Briefing: *niemand will seitenlange,
+Niemals aufblasen, um Seiten zu füllen. Aus dem Briefing, Folie 92, dort gemünzt auf
+KI-Text und hier für jeden Text übernommen: *niemand will seitenlange,
 nichtssagende Texte lesen. Weniger ist mehr.*
 
 ---
@@ -185,7 +194,10 @@ Aus dem Briefing und dem Leitfaden belegt, nicht angenommen.
 
 - **Kein ß. Immer ss.** dass, muss, gross, heisst, weiss, schliesslich, einschliesslich.
 - **«Guillemets» für Zitate**, innen ‹einfach›. Keine deutschen Anführungszeichen.
-- **Genderneutral.** Zuerst die neutrale Form: Nutzende, Studierende, Teilnehmende, Lesende,
+- **Genderneutral** (Regulativ 6.1 A und Briefing Folie 24). Der Leitfaden lässt in Kap. 2
+  `*` oder `:` zu, verlangt aber eine einheitliche Schreibweise. Das Briefing schreibt
+  durchgehend `*`, deshalb hier `*`.
+  Zuerst die neutrale Form: Nutzende, Studierende, Teilnehmende, Lesende,
   Fachpersonen. Wo es keine gibt, das Sternchen wie im Briefing: Auftraggeber*in,
   Expert*innen, Student*in, Designer*innen. **Durchgehend `*`**, nie gemischt mit `:`.
 - **Zahlen nach APA:** null bis neun als Wort, ab 10 als Ziffer. Immer Ziffern bei Messwerten,
@@ -231,6 +243,29 @@ Schmuck, «nicht X, sondern Y» als Manier, Negation zuerst. Behaupten, was etwa
 
 ---
 
+## Typische Formulierungen der Schule
+
+Das Briefing zeigt auf Folie 88 fünf Satzmuster als «typische Formulierungen». Sie sind
+Beispiele, keine Vorschrift, und drei davon kündigen an, statt zu behaupten. Deshalb hier
+mit der claim-first-Fassung daneben.
+
+| Briefing, Folie 88 | schärfer |
+|---|---|
+| Zusammenfassend lässt sich festhalten, dass ... | Die Analyse führt auf drei Brüche. |
+| Die folgenden Erkenntnisse aus der Analyse fliessen in die Designausarbeitung ein ... | Drei Erkenntnisse tragen das Design: ... |
+| Basierend auf den Ergebnissen der fünf Testings lassen sich folgende Erkenntnisse ableiten ... | Fünf Testings zeigen denselben Bruch bei «Termin wählen». |
+| Die Erkenntnisse sind wie folgt in die Anpassung des Prototyps eingeflossen ... | Der Prototyp ändert daraufhin drei Stellen: ... |
+| Mit Bezug zum Problem lassen sich die Aussagen wie folgt gewichten ... | Zwei der fünf Aussagen zahlen direkt auf das Problem ein. |
+
+Die linke Spalte kostet keine Punkte, sie ist von der Schule selbst gezeigt. Die rechte ist
+kürzer und behauptet früher. Wer unsicher ist, nimmt die linke: sie ist belegt, und ein
+gewöhnlicher Satz ist besser als ein falsch mutiger.
+
+Der einzige harte Fall bleibt die Leerformel ohne Inhalt («Im Rahmen dieser Arbeit»,
+«In diesem Kapitel wird ... beschrieben»). Die steht nicht auf Folie 88 und bleibt verboten.
+
+---
+
 ## Ablauf beim Schreiben
 
 1. **Vor dem Schreiben:** Kernaussage des Abschnitts in einem Satz. Steht die nicht, ist der
@@ -241,6 +276,14 @@ Schmuck, «nicht X, sondern Y» als Manier, Negation zuerst. Behaupten, was etwa
 4. **Audit:** [references/audit.md](references/audit.md) laufen lassen. Treffer zählen, nicht schätzen.
 5. **Lesen:** nur die Eröffnungssätze aller Abschnitte hintereinander. Ergeben sie eine
    Geschichte, trägt die Struktur. Sonst ist die Gliederung das Problem, nicht die Sprache.
+6. **Gegenlesen lassen.** Der Leitfaden empfiehlt in Kap. 2 ausdrücklich, die Arbeit vor der
+   Abgabe von einer kompetenten Person formal und sprachlich prüfen zu lassen. Das findet
+   Tipp- und Flüchtigkeitsfehler, die kein Skript und keine eigene Durchsicht mehr sieht.
+   Früh eine Person anfragen und einen Termin abmachen, nicht in der letzten Woche.
+
+**Reihenfolge egal.** Das Briefing hält auf Folie 86 fest, dass die Kapitel nicht in der
+Reihenfolge verfasst werden müssen, in der sie am Ende stehen. Meist ist die Einführung der
+letzte Text, weil sie erst schreibbar ist, wenn die Arbeit weiss, wovon sie handelt.
 
 ## Danach, jedes Mal
 
@@ -253,6 +296,7 @@ im Fachgespräch benotet. Quellen immer als Primärquelle, nie die KI-Wiedergabe
 
 ## Verwandt
 
+- [references/mindestanforderungen.md](references/mindestanforderungen.md): die formalen Punkte, die bis zu 5 Punkte kosten
 - [references/zitieren.md](references/zitieren.md): zitieren und Quellen nach Leitfaden Kap. 6 und 7
 - [references/balzert.md](references/balzert.md): die zwölf Qualitätskriterien, übersetzt ins Schreiben
 - [references/audit.md](references/audit.md): die Prüfung mit Grep

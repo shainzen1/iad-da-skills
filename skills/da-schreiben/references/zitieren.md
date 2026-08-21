@@ -126,15 +126,24 @@ Werktitel kursiv. Bei Zeitschriften sind Titel und Bandnummer kursiv, die Heftnu
 Umfragen) gehören mit Leitfaden und Rohdaten in den **Anhang**, KI-Tools ins
 **Hilfsmittelverzeichnis**.
 
-## Abbildungen
+## Abbildungen, Pläne und Tabellen
 
-Bildquellen werden wie Textquellen nachgewiesen (Leitfaden Kap. 3.5). Alle Abbildungen
-werden in der Arbeit **fortlaufend nummeriert** und im **Abbildungsverzeichnis** ihrer
-genauen Quelle zugewiesen. Das gilt für Bilder, Grafiken, Pläne und Tabellen, auch für
-eigene: «Abb. 7: Eigene Darstellung.»
+Bildquellen werden wie Textquellen nachgewiesen (Leitfaden Kap. 3.5 und 5). Abbildungen
+veranschaulichen die Argumentation, sie schmücken nicht. Wer eine Abbildung nicht im Text
+aufgreift, streicht sie.
+
+- **Fortlaufend durchnummeriert** und mit einer **Bildlegende** versehen, über die ganze
+  Arbeit hinweg, inklusive Grafiken, Pläne, Tabellen und Skizzen.
+- Am Ende der Arbeit führt das **Abbildungsverzeichnis** die Quellen auf, gleich sorgfältig
+  wie das Literaturverzeichnis.
+- Der Nachweis enthält **Nummer der Abbildung, Seitenzahl und die Quelle mit Datum**.
+- Bei **Fotografien** werden Vor- und Nachname des/r Fotograf*in genannt, allenfalls mit
+  Hinweis auf die Rechteinhaber*in.
+- Eigene Grafiken werden ebenfalls ausgewiesen: «Abb. 7: Eigene Darstellung.»
 
 Bei Schriften und Bildmaterial zusätzlich die **Lizenz** prüfen und festhalten. Das ist
-Kriterium «Verantwortung» in der Bewertung, nicht Kür.
+Kriterium «Verantwortung» in der Bewertung, nicht Kür. Bei KI-generiertem Bildmaterial
+kommt der Nachweis zusätzlich ins Hilfsmittelverzeichnis, mit Tool und Prompt.
 
 ---
 
@@ -156,3 +165,8 @@ Der Leitfaden verweist selbst auf:
 - APA-Richtlinien: https://www.scribbr.ch/category/apa-standard-ch/
 - Wissenschaftliches Schreiben: https://www.scribbr.ch/category/wissenschaftliches-schreiben-ch/
 - Gendern: https://www.scribbr.ch/category/richtig-gendern-ch/
+
+## Verwandt
+
+- [mindestanforderungen.md](mindestanforderungen.md): die übrigen formalen Punkte aus
+  Regulativ 6.1, die bis zu fünf Punkte kosten können

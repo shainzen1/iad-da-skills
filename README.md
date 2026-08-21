@@ -4,8 +4,9 @@ Zwei Claude-Skills für die Diplomarbeit HF Interaction Design an der Schule fü
 Bern und Biel:
 
 - **`da-schreiben`** legt fest, wie der Fliesstext der Arbeit klingt. Wissenschaftliche
-  Prosa auf Schweizer Hochdeutsch, abgeglichen mit Regulativ, Leitfaden und Briefing,
-  inklusive Zitierregeln und einem Skript, das den Text gegen den Standard prüft.
+  Prosa auf Schweizer Hochdeutsch, Zeile für Zeile abgeglichen mit Regulativ, Leitfaden und
+  Briefing, inklusive Zitierregeln, der Liste der formalen Mindestanforderungen und einem
+  Skript, das den Text gegen den Standard prüft.
 - **`ki-protokoll`** hält den KI-Einsatz fest. Es schreibt am Ende jeder Session die eigenen
   Prompts mit und pflegt das Hilfsmittelverzeichnis, das die Schule zur DA verlangt.
 
@@ -48,6 +49,7 @@ skills/
     audit.sh                      prüft eine Datei gegen den Standard, deutsch oder englisch
     references/
       zitieren.md                 Zitieren und Quellen nach Leitfaden Kap. 6 und 7
+      mindestanforderungen.md     die formalen Punkte aus Regulativ 6.1, die Punkte kosten
       balzert.md                  die zwölf Qualitätskriterien, übersetzt ins Schreiben
       audit.md                    was das Skript prüft und was es nicht kann
       eigene-stimme.md            die eigene Schreibstimme dazumischen
